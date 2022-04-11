@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,python**
 
-- 👨‍💻 All of my projects are available at [https://oyedola-oluwasegun.vercel.app/](https://oyedola-oluwasegun.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://oyedola-oluwasegun.vercel.app/](https://oyedola-portfolio.netlify.app/)
 
 - 💬 Ask me about **react,vue,php**
 
