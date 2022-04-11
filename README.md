@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **segunzyshegszy12@gmail.com**
 
-- 📄 Know about my experiences [https://oyedola-oluwasegun.vercel.app/](https://oyedola-oluwasegun.vercel.app/)
+- 📄 Know about my experiences [https://oyedola-oluwasegun.vercel.app/](https://oyedola-portfolio.netlify.app/)
 
 - ⚡ Fun fact **i think i am funny**
 
