@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React,python**
 
-- 👨‍💻 All of my projects are available at [https://oyedola-oluwasegun.vercel.app/](https://oyedola-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://oyedola-portfolio.netlify.app/](https://oyedola-portfolio.netlify.app/)
 
 - 💬 Ask me about **react,vue,php**
 
 - 📫 How to reach me **segunzyshegszy12@gmail.com**
 
-- 📄 Know about my experiences [https://oyedola-oluwasegun.vercel.app/](https://oyedola-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://oyedola-portfolio.netlify.app//](https://oyedola-portfolio.netlify.app/)
 
 - ⚡ Fun fact **i think i am funny**
 
